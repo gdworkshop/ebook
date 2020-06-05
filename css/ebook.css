@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://image.freepik.com/free-vector/speed-motion-futuristic-blue-background_23-2148400715.jpg" );
+   background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    background-color: burlywood;
+}
+h2{
+    background-color: cornsilk;
+}
+ol{
+    background-color: ghostwhite;
+}
+footer{
+    background-color: darkseagreen;
+}
