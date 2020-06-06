@@ -1,17 +1,22 @@
-body{
-    background-image: url("https://image.freepik.com/free-vector/speed-motion-futuristic-blue-background_23-2148400715.jpg" );
-   background-size: cover;
-    background-repeat: no-repeat;
+a:link{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: honeydew;
+}
+a:visited{
+    color: lavender;
 }
 h1{
-    background-color: burlywood;
+    font-family: cursive;
+    color: cornflowerblue;
+}
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-black-minimalist-atmospheric-wooden-background-backgroundwooden-backgroundtree-texture-image_77053.jpg");
+    background-size: cover;
 }
 h2{
-    background-color: cornsilk;
+    color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 ol{
-    background-color: ghostwhite;
-}
-footer{
-    background-color: darkseagreen;
+    color: cornsilk;
 }
